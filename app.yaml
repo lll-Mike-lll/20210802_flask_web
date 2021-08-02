@@ -1,5 +1,7 @@
 runtime: python38
 
+service: 20210801_flask_web_app
+
 handlers:
 - url: /static
   static_dir: static
