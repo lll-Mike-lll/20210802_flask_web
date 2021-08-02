@@ -144,6 +144,13 @@ body {
     }
 }
 
+@media only screen and (max-width: 768px) {
+    .img-index {
+        width: 80% !important;
+        border-radius: 10px;
+    }
+}
+
 .bg-header-project {
     background: linear-gradient(30deg, #0CECDD 0%, #FFF338 100%) !important;
 }
