@@ -132,7 +132,7 @@ body {
 
 @media only screen and (max-width: 992px) {
     .img-index {
-        width: 50% !important;
+        width: 80% !important;
         border-radius: 10px;
     }
     .img-index-type2 {
@@ -141,13 +141,6 @@ body {
     }
     .text-custom1 {
         padding-top: 3rem;
-    }
-}
-
-@media only screen and (max-width: 768px) {
-    .img-index {
-        width: 80% !important;
-        border-radius: 10px;
     }
 }
 
